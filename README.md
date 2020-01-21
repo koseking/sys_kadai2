@@ -12,4 +12,4 @@ This repository is licensed under the GPLv3 license, see LICENSE.
     $ roslaunch mypkg mypkg.launch
 手元のPCのブラウザで`http://ラズパイのIPアドレス:8000`を閲覧 
 ## 動画URL(YouTube)
-https://youtu.be/BEd4mEt_mEo
+https://youtu.be/bOV1HbjlZns
